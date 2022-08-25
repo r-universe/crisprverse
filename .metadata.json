@@ -1,0 +1,14 @@
+[
+  {
+    "package": "crisprBase"
+  },
+  {
+    "package": "crisprBwa"
+  },
+  {
+    "package": "crisprDesign"
+  },
+  {
+    "package": "crisprVerse"
+  }
+]
