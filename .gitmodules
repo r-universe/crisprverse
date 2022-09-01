@@ -18,6 +18,11 @@
 	url = https://github.com/crisprverse/crisprdesign
 	shallow = true
 	registered = true
+[submodule "crisprScore"]
+	path = crisprScore
+	url = https://github.com/crisprverse/crisprscore
+	shallow = true
+	registered = true
 [submodule "crisprVerse"]
 	path = crisprVerse
 	url = https://github.com/crisprverse/crisprverse

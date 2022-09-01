@@ -9,6 +9,9 @@
     "package": "crisprDesign"
   },
   {
+    "package": "crisprScore"
+  },
+  {
     "package": "crisprVerse"
   }
 ]
