@@ -8,6 +8,11 @@
 	url = https://github.com/crisprverse/crisprbase
 	shallow = true
 	registered = true
+[submodule "crisprBowtie"]
+	path = crisprBowtie
+	url = https://github.com/crisprverse/crisprbowtie
+	shallow = true
+	registered = true
 [submodule "crisprBwa"]
 	path = crisprBwa
 	url = https://github.com/crisprverse/crisprbwa

@@ -3,6 +3,9 @@
     "package": "crisprBase"
   },
   {
+    "package": "crisprBowtie"
+  },
+  {
     "package": "crisprBwa"
   },
   {
