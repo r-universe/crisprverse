@@ -15,9 +15,9 @@
     "package": "crisprScore"
   },
   {
-    "package": "crisprVerse"
+    "package": "crisprViz"
   },
   {
-    "package": "crisprViz"
+    "package": "crisprVerse"
   }
 ]
