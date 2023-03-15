@@ -3,6 +3,16 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "crisprDesign"]
+	path = crisprDesign
+	url = https://github.com/crisprverse/crisprdesign
+	shallow = true
+	registered = true
+[submodule "crisprScore"]
+	path = crisprScore
+	url = https://github.com/crisprverse/crisprscore
+	shallow = true
+	registered = true
 [submodule "crisprBase"]
 	path = crisprBase
 	url = https://github.com/crisprverse/crisprbase
@@ -16,16 +26,6 @@
 [submodule "crisprBwa"]
 	path = crisprBwa
 	url = https://github.com/crisprverse/crisprbwa
-	shallow = true
-	registered = true
-[submodule "crisprDesign"]
-	path = crisprDesign
-	url = https://github.com/crisprverse/crisprdesign
-	shallow = true
-	registered = true
-[submodule "crisprScore"]
-	path = crisprScore
-	url = https://github.com/crisprverse/crisprscore
 	shallow = true
 	registered = true
 [submodule "crisprVerse"]

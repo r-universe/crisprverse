@@ -1,5 +1,11 @@
 [
   {
+    "package": "crisprDesign"
+  },
+  {
+    "package": "crisprScore"
+  },
+  {
     "package": "crisprBase"
   },
   {
@@ -7,12 +13,6 @@
   },
   {
     "package": "crisprBwa"
-  },
-  {
-    "package": "crisprDesign"
-  },
-  {
-    "package": "crisprScore"
   },
   {
     "package": "crisprVerse"
