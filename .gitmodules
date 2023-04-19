@@ -38,3 +38,8 @@
 	url = https://github.com/crisprverse/crisprviz
 	shallow = true
 	registered = true
+[submodule "screenCounter"]
+	path = screenCounter
+	url = https://github.com/crisprverse/screencounter
+	shallow = true
+	registered = true
