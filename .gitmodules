@@ -1,45 +1,28 @@
 [submodule ".registry"]
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
-	shallow = true
 	branch = HEAD
 [submodule "crisprBase"]
 	path = crisprBase
 	url = https://github.com/crisprverse/crisprbase
-	shallow = true
-	registered = true
 [submodule "crisprBowtie"]
 	path = crisprBowtie
 	url = https://github.com/crisprverse/crisprbowtie
-	shallow = true
-	registered = true
 [submodule "crisprBwa"]
 	path = crisprBwa
 	url = https://github.com/crisprverse/crisprbwa
-	shallow = true
-	registered = true
 [submodule "crisprDesign"]
 	path = crisprDesign
 	url = https://github.com/crisprverse/crisprdesign
-	shallow = true
-	registered = true
 [submodule "crisprScore"]
 	path = crisprScore
 	url = https://github.com/crisprverse/crisprscore
-	shallow = true
-	registered = true
 [submodule "crisprVerse"]
 	path = crisprVerse
 	url = https://github.com/crisprverse/crisprverse
-	shallow = true
-	registered = true
 [submodule "crisprViz"]
 	path = crisprViz
 	url = https://github.com/crisprverse/crisprviz
-	shallow = true
-	registered = true
 [submodule "screenCounter"]
 	path = screenCounter
 	url = https://github.com/crisprverse/screencounter
-	shallow = true
-	registered = true
