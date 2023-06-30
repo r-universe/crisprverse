@@ -23,6 +23,9 @@
 [submodule "crisprViz"]
 	path = crisprViz
 	url = https://github.com/crisprverse/crisprviz
+[submodule "Rbwa"]
+	path = Rbwa
+	url = https://github.com/crisprverse/rbwa
 [submodule "screenCounter"]
 	path = screenCounter
 	url = https://github.com/crisprverse/screencounter
