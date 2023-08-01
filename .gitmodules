@@ -2,6 +2,9 @@
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
 	branch = HEAD
+[submodule "Rbwa"]
+	path = Rbwa
+	url = https://github.com/crisprverse/rbwa
 [submodule "crisprBase"]
 	path = crisprBase
 	url = https://github.com/crisprverse/crisprbase
@@ -23,9 +26,6 @@
 [submodule "crisprViz"]
 	path = crisprViz
 	url = https://github.com/crisprverse/crisprviz
-[submodule "Rbwa"]
-	path = Rbwa
-	url = https://github.com/crisprverse/rbwa
 [submodule "screenCounter"]
 	path = screenCounter
 	url = https://github.com/crisprverse/screencounter
