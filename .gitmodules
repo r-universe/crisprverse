@@ -20,6 +20,9 @@
 [submodule "crisprScore"]
 	path = crisprScore
 	url = https://github.com/crisprverse/crisprscore
+[submodule "crisprShiny"]
+	path = crisprShiny
+	url = https://github.com/crisprverse/crisprshiny
 [submodule "crisprVerse"]
 	path = crisprVerse
 	url = https://github.com/crisprverse/crisprverse
